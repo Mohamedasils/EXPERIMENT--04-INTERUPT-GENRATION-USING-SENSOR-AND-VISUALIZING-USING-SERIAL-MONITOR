@@ -2,7 +2,7 @@
 
 ###  NAME: mohamed asil
 ###  ROLL NO : 212223040112
-###  DEPARTMENT: B.E.CSE (IoT)
+###  DEPARTMENT: B.E.CSE
 
 
 
